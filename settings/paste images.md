@@ -50,4 +50,6 @@
 
 ![](./images/2021-12-23-11-43-26.png)
 
->1. 소스 제어 탭에 가보면 이미지와 파일이 생성된 걸 볼 수 있다.
+6. 소스 제어 탭에 가보면 이미지와 파일이 생성된 걸 볼 수 있다.
+
+https://github.com/eveninthesun/common/blob/common/settings/paste%20images.md
