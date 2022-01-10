@@ -24,6 +24,6 @@
 ## 사용 방법
 
 ```cmd
-> #명령 프롬프트 실행
+> # 명령 프롬프트 실행
 > python createRandomPassword.py
 ```
